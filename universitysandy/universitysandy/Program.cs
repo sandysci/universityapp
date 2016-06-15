@@ -15,7 +15,7 @@ namespace universitysandy
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new student());
+            Application.Run(new Form1());
         }
     }
 }
