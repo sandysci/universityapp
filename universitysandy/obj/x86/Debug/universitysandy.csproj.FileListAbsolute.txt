@@ -1,0 +1,15 @@
+c:\users\user\documents\visual studio 2010\Projects\universitysandy\universitysandy\obj\x86\Debug\universitysandy.Form1.resources
+c:\users\user\documents\visual studio 2010\Projects\universitysandy\universitysandy\obj\x86\Debug\universitysandy.Properties.Resources.resources
+c:\users\user\documents\visual studio 2010\Projects\universitysandy\universitysandy\obj\x86\Debug\universitysandy.csproj.GenerateResource.Cache
+C:\Users\USER\Documents\Visual Studio 2010\Projects\universitysandy\universitysandy\bin\Debug\universitysandy.exe
+C:\Users\USER\Documents\Visual Studio 2010\Projects\universitysandy\universitysandy\bin\Debug\universitysandy.pdb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\universitysandy\universitysandy\obj\x86\Debug\universitysandy.exe
+C:\Users\USER\Documents\Visual Studio 2010\Projects\universitysandy\universitysandy\obj\x86\Debug\universitysandy.pdb
+C:\Users\USER\documents\visual studio 2010\Projects\universitysandy\universitysandy\obj\x86\Debug\universitysandy.csprojResolveAssemblyReference.cache
+C:\Users\USER\Documents\Visual Studio 2010\Projects\universitysandy\universitysandy\obj\x86\Debug\universitysandy.Dashboard.resources
+C:\Users\USER\Documents\Visual Studio 2010\Projects\universitysandy\universitysandy\obj\x86\Debug\universitysandy.facu.resources
+C:\Users\USER\documents\visual studio 2010\Projects\universitysandy\universitysandy\obj\x86\Debug\universitysandy.department.resources
+C:\Users\USER\Documents\Visual Studio 2010\Projects\universitysandy\universitysandy\obj\x86\Debug\universitysandy.updateanddeletedepartmentrecord.resources
+C:\Users\USER\Documents\Visual Studio 2010\Projects\universitysandy\universitysandy\obj\x86\Debug\universitysandy.student.resources
+C:\Users\USER\Documents\Visual Studio 2010\Projects\universitysandy\universitysandy\obj\x86\Debug\universitysandy.updateanddeletestudent.resources
+C:\Users\USER\Documents\Visual Studio 2010\Projects\universitysandy\universitysandy\obj\x86\Debug\universitysandy.dgridtesting.resources
